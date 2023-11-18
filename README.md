@@ -6,8 +6,8 @@ Hackathon project for Scientific software corpus using using WoC Data and AI/LLM
 - Reed Milewicz
 - Ahmed Samir Imam Mahmoud
 - Lavinia Pagnini
-- Sean?
-- Lim?
+- Sean Kwak
+- Kyungchan Lim
 
 
 ### Todos:
@@ -48,7 +48,6 @@ Use case demonstrations:
 
 DEI: Laviginia, could you please some text
 
-Security: Sean, Lim, if you are still on, can you please add text here.
-  -Plain text secrets
-  -other ideas
-
+Security: Use CodeQL to scan vulnerability from OSS.
+- Check if CodeQL can be run with only repository information (name or link)
+- After getting scientific code extracted from WoC, we can run CodeQL to check for vulnerabilities.
