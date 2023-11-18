@@ -17,8 +17,17 @@ How do we filter all projects in world of code
 
   -start with attributes in mongo
 
-  -come up with criteria and supporting evidence 
+  -come up with criteria and supporting evidence  (97295 projects)
   
+  ```
+  db.P_metadata.V.findOne({ 
+        $where: function() { return this.NumFiles > this.FileInfo.other }, 
+        NumFiles: { $gt: 5 }, 
+        NumCommits: { $gt: 500 }, 
+        NumAuthors: { $gt: 5 }, 
+        NumActiveMon: { $gt: 6 },	
+        LatestCommitDate: { $gt: 1542572838 }})
+  ```
 Once we have a list of filtered projects, obtain their readme md files
 
 Compile a dataset of projects, urls and their readme.mds
