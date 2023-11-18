@@ -6,8 +6,8 @@ Hackathon project for Scientific software corpus using using WoC Data and AI/LLM
 - Reed Milewicz
 - Ahmed Samir Imam Mahmoud
 - Lavinia Pagnini
-- Sean?
-- Lim?
+- Sean Kwak
+- Kyungchan Lim
 
 
 ### Todos:
