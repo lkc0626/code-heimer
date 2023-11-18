@@ -1,16 +1,16 @@
 # code-heimer
 Hackathon project for Scientific software corpus using using WoC Data and AI/LLM
 
-Team members: 
-Addi Malviya-Thakur
-Reed Milewicz
-Ahmed Samir Imam Mahmoud
-Lavinia Pagnini
-Sean?
-Lim?
+### Team members: 
+- Addi Malviya-Thakur
+- Reed Milewicz
+- Ahmed Samir Imam Mahmoud
+- Lavinia Pagnini
+- Sean?
+- Lim?
 
 
-# Todos:
+### Todos:
 How do we define scientific software?
 
 How do we filter all projects in world of code
